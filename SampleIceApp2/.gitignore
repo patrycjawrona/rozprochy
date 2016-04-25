@@ -1,0 +1,8 @@
+*.exe
+bin/
+generated/Demo/
+*.iml
+out/
+.idea/
+idea/
+target/
